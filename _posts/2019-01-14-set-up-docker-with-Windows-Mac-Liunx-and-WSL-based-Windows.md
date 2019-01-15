@@ -70,3 +70,8 @@ You can check it with command: `docker info` and `docker-compose -v`
 The key point here it that:
 - Windows and Linux docker should work together, so you need to install both of them.
 - And the directory structure for the Windows SubSystem is not suitable for docker to check the volume, we should change it.
+
+### Source
+- [how to make windows and wsl work together](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly)
+- [Linux install docker-compose](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04)
+- [Linux install docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
